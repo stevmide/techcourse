@@ -19,7 +19,7 @@ const Home = () => {
         <title>AI Pro</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content="AI Pro is an online platform for tech courses"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
