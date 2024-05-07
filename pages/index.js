@@ -27,7 +27,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Nextly Benefits"
+        pretitle="AI Pro Benefits"
         title=" Why our course will benefit you">
         Take your knowledge from zero to hero with our curated learning 
         paths! We break down complex topics into bite-sized pieces, 
